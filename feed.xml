@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/tiankonganddahai/myblog</id><title>RSS feed of tiankonganddahai's myblog</title><updated>2021-12-12T01:05:40.794791+00:00</updated><author><name>shomain</name><email>shomain@sohu.com</email></author><link href="https://github.com/tiankonganddahai/myblog"/><link href="https://raw.githubusercontent.com/tiankonganddahai/myblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/tiankonganddahai/myblog/issues/1</id><title>这是第一篇Blog</title><updated>2021-12-12T01:05:41.057424+00:00</updated><content type="html"><![CDATA[<p>##标题
+测试一下。</p>
+]]></content><link href="https://github.com/tiankonganddahai/myblog/issues/1" rel="alternate"/><published>2021-12-12T01:04:57+00:00</published></entry></feed>
